@@ -22,3 +22,12 @@ const array = passageiros.map(
 );
 
 console.table(array)
+
+
+/**
+ * #0a0 Descobrir se é um palindromo #0a0
+ */
+
+ const searchpalin = passageiros.map(passageiro => {
+   []
+ })

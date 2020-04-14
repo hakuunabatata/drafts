@@ -5,7 +5,7 @@ module.exports = {
     "machado@gmail.com",
     "martins@hotmail.com",
     "batata@gmail.com",
-    "gmail@hotmail.com",
+    "gmail@email.com",
   ],
   passageiros: [
     { name: "Evandro", birth: 1999 },
@@ -17,8 +17,8 @@ module.exports = {
   ],
   compras: [
     { produto: "sapato", qtd: 2, preco: 118 },
-    { produto: "tenis", qtd: 2, preco: 89 },
     { produto: "bermuda", qtd: 1, preco: 48 },
     { produto: "camiseta", qtd: 2, preco: 25 },
+    { produto: "tenis", qtd: 1, preco: 89 },
   ],
 };
